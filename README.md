@@ -1,9 +1,8 @@
 ### Hello World! Eu sou Renan Arimatea
 
-- 🔭 Hoje eu trabalho com serviços bancários
-- 🌱 Estou estudando HTML, CSS e JavaScript
-- 😄 Pronouns: ele/dele
-- ⚡ Fun fact: Tenho um pug chamado Woody (O cowboy do Toy Story)
+- 🔭 Today I work with banking services
+- 🌱 I'm studying HTML, CSS and JavaScript
+- ⚡ Fun fact:I have a pug named Woody (The Toy Story cowboy)
 
  <div>
   <a href="https://github.com/renan-arimatea">
