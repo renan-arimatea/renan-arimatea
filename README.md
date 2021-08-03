@@ -2,7 +2,7 @@
 
 - 🔭 Today I work with banking services
 - 🌱 I'm studying HTML, CSS and JavaScript
-- ⚡ Fun fact: I have a pug named Woody (The Toy Story cowboy)
+- ⚡ Fun fact: I have a pug named Woody (The Toy Story's cowboy)
 
  <div>
   <a href="https://github.com/renan-arimatea">
