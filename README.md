@@ -24,7 +24,6 @@
    <a href="https://www.linkedin.com/in/renan-arimatea-37427a136/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:renanmoraiz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/renanarimatea/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"      target="_blank"></a>
-  <img align="" alt="renan-arimatea" height="25" src="https://komarev.com/ghpvc/?username=renan-arimatea&color=green" /> 
  
    ![Snake animation](https://github.com/renan-arimatea/renan-arimatea/blob/output/github-contribution-grid-snake.svg)
 
