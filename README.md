@@ -1,7 +1,7 @@
 ### Hello World! Eu sou Renan Arimatea
 
 - 🔭 Today I work with banking services
-- 🌱 I'm studying HTML, CSS and JavaScript
+- 🌱 I'm studying Web FullStack Development at Labenu
 - ⚡ Fun fact: I have a pug named Woody (The Toy Story's cowboy)
 
  <div>
@@ -25,6 +25,6 @@
   <a href = "mailto:renanmoraiz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/renanarimatea/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"      target="_blank"></a>
  
-   ![Snake animation](https://github.com/renan-arimatea/renan-arimatea/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/renan-arimatea/blob/output/github-contribution-grid-snake.svg)
 
 </div>
