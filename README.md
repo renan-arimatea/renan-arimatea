@@ -1,7 +1,7 @@
 ### Hello World! Eu sou Renan Arimatea
 
 - 🔭 Today I work with banking services.
-- 🌱 I'm studying Web FullStack Development at Labenu.
+- 🌱 I'm studying Web FullStack Development and Data Analyst.
 - ⚡ Fun fact: I have a pug named Woody (The Toy Story's cowboy).
 
  <div>
