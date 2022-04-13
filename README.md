@@ -1,6 +1,6 @@
 ### Hello World! I'm Renan Arimatea
 
-- 🔭 I am part of a hyper-connected generation, lover of technology and practicality. I see this world of infinite possibilities that we have available with a twinkle      in my eye and I want to be part of the community that is willing to transform the way people see technology! I currently have a knowledge base in Web Development      (HTML, CSS, JavaScript, React) and Data Analytics (Python, SQL).
+- 🔭 I am part of a hyper-connected generation, lover of technology and practicality. I see this world of infinite possibilities that we have available with a twinkle      in my eye and I want to be part of the community that is willing to transform the way people see technology! I currently have a knowledge base in Web Development      (HTML, CSS, JavaScript, React) and Backend (Python, SQL, VisualBasic).
 
  <div>
   <a href="https://github.com/renan-arimatea">
