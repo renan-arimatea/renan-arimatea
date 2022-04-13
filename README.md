@@ -16,7 +16,7 @@
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
  <img align="center" alt="Rafa-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="Rafa-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
- <img align="center" alt="Rafa-Py" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg">
+ <img align="center" alt="Rafa-Py" height="30" width="40" src="https://seeklogo.com/images/1/net-logo-681E247422-seeklogo.com.png">
 </div>
   
   ##
