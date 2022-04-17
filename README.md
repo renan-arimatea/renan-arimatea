@@ -1,6 +1,6 @@
 ### Hello World! I'm Renan Arimatea
 
-- 🔭 I am part of a hyper-connected generation, lover of technology and practicality. I see this world of infinite possibilities that we have available with a twinkle      in my eye and I want to be part of the community that is willing to transform the way people see technology! I currently have a knowledge base in Web Development      (HTML, CSS, JavaScript, React) and Backend (Python, SQL, Visual Basic.NET).
+- 🔭 I am part of a hyper-connected generation, lover of technology and practicality. I see this world of infinite possibilities that we have available with a twinkle      in my eye and I want to be part of the community that is willing to transform the way people see technology! I currently have a knowledge base in Web Development      (HTML, CSS, JavaScript, React) and Backend (Python, SQL, Visual Basic .NET).
 
  <div>
   <a href="https://github.com/renan-arimatea">
@@ -9,14 +9,14 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
- <img align="center" alt="Rafa-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="Rafa-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
- <img align="center" alt="Rafa-Py" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg">
+  <img align="center" alt="Renan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Renan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Renan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Renan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Renan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+ <img align="center" alt="Renan-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="Renan-Sql" height="30" width="40" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg">
+ <img align="center" alt="Renan-.NET" height="30" width="40" src="https://static.wikia.nocookie.net/logopedia/images/c/c7/Microsoft_.NET_StartupImage.svg/revision/latest/scale-to-width-down/512?cb=20200629113510">
 </div>
   
   ##
