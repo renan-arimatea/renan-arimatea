@@ -16,7 +16,7 @@
   <img align="center" alt="Renan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
  <img align="center" alt="Renan-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="Renan-Sql" height="30" width="40" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg">
- <img align="center" alt="Renan-.NET" height="30" width="30" src="https://growiz.com.br/wp-content/uploads/2021/01/ms-dotnet-3.png">
+ <img align="center" alt="Renan-.NET" height="30" width="30" src="https://seeklogo.com/images/M/microsoft-net-framework-logo-B9BA1A3DA1-seeklogo.com.png">
 </div>
   
   ##
