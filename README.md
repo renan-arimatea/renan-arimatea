@@ -16,7 +16,7 @@
   <img align="center" alt="Renan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
  <img align="center" alt="Renan-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="Renan-Sql" height="30" width="40" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg">
- <img align="center" alt="Renan-.NET" height="30" width="40" src="https://static.wikia.nocookie.net/logopedia/images/c/c7/Microsoft_.NET_StartupImage.svg/revision/latest/scale-to-width-down/512?cb=20200629113510">
+ <img align="center" alt="Renan-.NET" height="30" width="30" src="https://static.wikia.nocookie.net/logopedia/images/c/c7/Microsoft_.NET_StartupImage.svg/revision/latest/scale-to-width-down/512?cb=20200629113510">
 </div>
   
   ##
