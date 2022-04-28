@@ -1,9 +1,9 @@
-### 🇧🇷 Olá Mundo! Eu sou Renan Arimatea
+### :brazil:	 Olá Mundo! Eu sou Renan Arimatea
 
 - 👨🏾‍💻 Faço parte de uma geração hiperconectada, amante da tecnologia e da praticidade. Vejo com brilho nos olhos este mundo de infinitas possibilidades que temos a disposição e quero fazer parte da comunidade que esta disposta a transformar a forma como as pessoas veem a tecnologia! Atualmente tenho uma base de conhecimentos em Desenvolvimento Web (HTML, CSS, JavaScript, React ) e Backend (Python, Visual Basic .NET, SQL).
 
 
-### 🇺🇸 Hello World! I'm Renan Arimatea
+### :us: Hello World! I'm Renan Arimatea
 
 - 👨🏾‍💻 I am part of a hyper-connected generation, lover of technology and practicality. I see this world of infinite possibilities that we have available with a twinkle      in my eye and I want to be part of the community that is willing to transform the way people see technology! I currently have a knowledge base in Web Development      (HTML, CSS, JavaScript, React) and Backend (Python, SQL, Visual Basic .NET).
 
