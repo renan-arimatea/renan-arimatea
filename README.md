@@ -8,7 +8,7 @@
 - 👨🏾‍💻 I am part of a hyper-connected generation, lover of technology and practicality. It sparkles my eyes seeing this world of infinite opportunities we have available and I want to be part of the community that is willing to transform the way people see technology! I currently have a knowledge base in Web Development Front-end (HTML, CSS, JavaScript, React, Styled-Components, React Hooks, REST, Api Restful, HTTP, Jest, UI Design) and Back-end ( Node.JS, Knex, TypeScript, MySQL, AWS, SQL, Git, Github, Firebase, Unit's Test).
 
 </br>
-
+</
  <div>
   <a href="https://github.com/renan-arimatea">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=renan-arimatea&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
