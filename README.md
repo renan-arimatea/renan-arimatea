@@ -1,4 +1,4 @@
-### :brazil:	 Olá Mundo! Eu sou Renan Arimatea.
+### :brazil:	 Olá Mundo! Eu sou Renan Arimatea
 
 - 👨🏾‍💻 Faço parte de uma geração hiperconectada, amante da tecnologia e da praticidade. Vejo com brilho nos olhos este mundo de infinitas possibilidades que temos a disposição e quero fazer parte da comunidade que esta disposta a transformar a forma como as pessoas veem a tecnologia! Atualmente tenho uma base de conhecimentos em Desenvolvimento Front-end (HTML, CSS, JavaScript, React, Styled-Components, React Hooks, REST, Api Restful, HTTP, Jest, UI Design) quanto Back-end ( Node.JS, Knex, TypeScript, MySQL, AWS, SQL, Git, Github, Firebase, Testes unitários).
 
